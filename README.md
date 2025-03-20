@@ -17,23 +17,6 @@ The **Personal Fitness Tracker** is a web application built with **Streamlit** t
 - **Database**: SQLite for storing user profiles
 - **Frontend Styling**: Custom CSS for UI improvements
 
-## 🚀 Installation & Setup
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/coolguy-sree/Personal_Fitness_Tracker-using-Python.git
-   ```
-2. Navigate to the project folder:
-   ```sh
-   cd personal-fitness-tracker
-   ```
-3. Install dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
-4. Run the application:
-   ```sh
-   streamlit run app.py
-   ```
 
 ## 🏋️‍♂️ How to Use
 1. **Input User Details**: Name, Age, Weight, Height, Activity Level, Fitness Goal.
@@ -59,14 +42,3 @@ These datasets are merged and preprocessed before being used for machine learnin
 - Custom CSS for improved visuals.
 - Embedded logo and stylized headers.
 - Interactive sidebar for user input.
-
-## 💡 Contributing
-Feel free to fork the repository, create a branch, and submit a pull request with enhancements!
-
-## 📜 License
-This project is licensed under the MIT License.
-
-## 👨‍💻 Author
-Developed by **Surya Saroj**
-
----
